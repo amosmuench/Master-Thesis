@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1661474	/home/amosmuench/Pipeline17092020/PRJNA268115/QC/SRR1661474_fastqc.zip
+FastQC	all_sections	SRR1661478	/home/amosmuench/Pipeline17092020/PRJNA268115/QC/SRR1661478_fastqc.zip
+FastQC	all_sections	SRR1661473	/home/amosmuench/Pipeline17092020/PRJNA268115/QC/SRR1661473_fastqc.zip
+FastQC	all_sections	SRR1661476	/home/amosmuench/Pipeline17092020/PRJNA268115/QC/SRR1661476_fastqc.zip
+FastQC	all_sections	SRR1661477	/home/amosmuench/Pipeline17092020/PRJNA268115/QC/SRR1661477_fastqc.zip
+FastQC	all_sections	SRR1661475	/home/amosmuench/Pipeline17092020/PRJNA268115/QC/SRR1661475_fastqc.zip

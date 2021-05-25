@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR584117	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584117_fastqc.zip
+FastQC	all_sections	SRR584119	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584119_fastqc.zip
+FastQC	all_sections	SRR584124	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584124_fastqc.zip
+FastQC	all_sections	SRR584115	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584115_fastqc.zip
+FastQC	all_sections	SRR584123	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584123_fastqc.zip
+FastQC	all_sections	SRR584116	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584116_fastqc.zip
+FastQC	all_sections	SRR584122	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584122_fastqc.zip
+FastQC	all_sections	SRR584118	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584118_fastqc.zip
+FastQC	all_sections	SRR584121	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584121_fastqc.zip
+FastQC	all_sections	SRR584125	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584125_fastqc.zip
+FastQC	all_sections	SRR584120	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584120_fastqc.zip
+FastQC	all_sections	SRR584126	/home/amosmuench/Pipeline17092020/PRJNA176940/QC/SRR584126_fastqc.zip
